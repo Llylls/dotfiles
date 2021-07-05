@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lydia.seyler@essec.edu
+	name = Lydia Seyler
